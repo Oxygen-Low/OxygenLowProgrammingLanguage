@@ -8,4 +8,4 @@ The primary goal is to create a simple-to-use programming language that anyone c
 
 ## Licensing
 
-The IDE and programming language are both licensed under the (https://github.com/Oxygen-Low/OxygenLowLicense)[Oxygen Low License Open Source]
+The IDE and programming language are both licensed under the [Oxygen Low License Open Source](https://github.com/Oxygen-Low/OxygenLowLicense)
