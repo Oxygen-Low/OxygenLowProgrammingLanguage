@@ -13,6 +13,12 @@ Free to use, simple to install programming language for all uses.
 This is probably going to become a much more bigger project than what i've been doing.
 The primary goal is to create a simple-to-use programming language that anyone can use easily.
 
+## Help/Tutorials
+
+If you want to use/learn the programming language, read the wiki.
+If you need help with a feature, use discussions.
+If you encounter a bug, report it in issues (check if a report for the same issue already exists).
+
 ## Licensing
 
 The IDE and programming language are both licensed under the [Oxygen Low License Open Source](https://github.com/Oxygen-Low/OxygenLowLicense)
