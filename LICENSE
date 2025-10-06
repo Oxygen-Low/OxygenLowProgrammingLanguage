@@ -1,0 +1,127 @@
+Oxygen Low License Open Source (OLLOS-1.0)
+=================================
+
+Copyright (c) 2025 Oxygen-Low
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to
+do so, subject to the following terms and conditions:
+
+1. Definitions
+--------------
+a. "Software" means the copyrighted work identified above, including source
+   code, object code, binaries, libraries, modules, and associated
+   documentation provided by the copyright owner.
+
+b. "Component" means the Software when distributed as a distinct library,
+   module, package, or other discrete software component that can be
+   incorporated into a larger work.
+
+c. "Distribute" or "Distribution" means any transfer, publication, sale,
+   lease, sublicense, rental, transmission, or making available to third
+   parties.
+
+2. Grant of rights
+------------------
+Subject to the terms of this License, the copyright owner grants to any
+recipient a worldwide, royalty-free, non-exclusive, perpetual license to:
+   a. Use, reproduce, publicly display, perform, and execute the Software;
+   b. Prepare derivative works of, and modify, the Software;
+   c. Distribute, sublicense, and/or sell copies of the Software in source
+      or object (binary) form; and
+   d. Permit third parties to exercise the foregoing rights on the same
+      terms.
+
+3. License placement and scope of obligations
+--------------------------------------------
+a. The full text of this License and the copyright notice above must be
+   included with the copy of the Software that is distributed (for example,
+   in the same repository, package, or distribution bundle that contains the
+   Software's files). This requirement applies to the Software as a discrete
+   Component.
+
+b. If the Software is included (bundled or linked) into a larger work, the
+   larger work **is not required** to adopt this License for the larger
+   work, provided that the copy of the Software Component included with, or
+   distributed alongside, the larger work continues to carry this License
+   and the License text remains accessible where the Component is located
+   (for example, in the library's directory, package metadata, or
+   accompanying files). In short: **only the Component itself needs to
+   carry this License**; the containing project does not need to rewrite
+   its own license to match this one.
+
+4. Attribution and authorship
+-----------------------------
+a. You must not misrepresent the origin of the Software. You may not claim
+   authorship of the original Software unless you are the original author(s)
+   or have been explicitly credited as such.
+
+b. You must not remove, alter, or obscure existing copyright notices,
+   author credits, or license notices contained in the Software.
+
+c. If you distribute a modified version of the Software as a distinct
+   Component, you are encouraged (but not strictly required) to include a
+   prominent notice stating that you changed the Software and describing
+   the nature of the changes. Any false claim of original authorship is a
+   material breach of this License.
+
+5. No copyleft; redistribution of derivative and larger works
+-----------------------------------------------------------
+This License is permissive and non-copyleft. Recipients may distribute
+derivative works or larger works that include the Software under any
+license of their choosing, provided that any distributed copy of the
+original Software Component continues to include this License and the
+copyright notice as required in Section 3.
+
+6. Patent grant
+---------------
+To the extent you hold patent rights that would necessarily be infringed by
+the practice of the Software as provided, you hereby grant recipients a
+license to make, use, sell, offer for sale, import, and otherwise transfer
+the Software under those patent claims, on the same terms as this License.
+This paragraph does not grant patent rights beyond those necessarily
+implicated by using the Software as distributed.
+
+7. Disclaimer of warranty
+-------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, EXCEPT TO THE
+EXTENT THAT A WARRANTY IS PROVIDED IN WRITING BY THE COPYRIGHT OWNER.
+Unless an express, written warranty is provided by the copyright owner, no
+warranty is granted.
+
+8. Limitation of liability and termination
+-----------------------------------------
+a. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, EXCEPT WHERE A
+   WRITTEN WARRANTY IS PROVIDED AS STATED IN SECTION 7.
+
+b. Any attempt to remove or alter this License text or the copyright
+   notice from a distributed copy of the Software (including removal of
+   attribution or falsely claiming original authorship) will automatically
+   terminate the rights granted to the violating party under this License.
+   Terminated parties must cease distribution and use of the Software under
+   the terminated rights; however, such termination does not affect
+   downstream recipients who lawfully received the Software prior to
+   termination.
+
+9. Export controls and compliance
+---------------------------------
+Recipients shall comply with all applicable export, import, and sanctions
+laws and regulations. This License does not authorize any activity prohibited
+by such laws.
+
+10. Miscellaneous
+-----------------
+a. If any provision of this License is held to be unenforceable, the
+   remainder of the License shall remain in full force and effect.
+
+b. This License is intended to be technology- and jurisdiction-neutral and
+   should be interpreted with that objective in mind.
+
+Version: OLL-1.0
